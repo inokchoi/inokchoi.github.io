@@ -14,7 +14,7 @@ tags: ["Test", "MD", "First"]
 # 대표 이미지를 입력합니다. 이미지 업로드 위치는 아래에 기술합니다.
 #image: /assets/images/posts/nerdfactory-documentation-history/main.jpg
 # 포스트의 초안 여부를 입력합니다. "no" 로 입력할 경우 공개됩니다.
-draft: "yes"
+draft: "no"
 ---
 # This is a H1
 ## This is a H2
